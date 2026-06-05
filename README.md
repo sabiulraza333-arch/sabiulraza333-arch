@@ -54,7 +54,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabiulraza333-arch&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sabiulraza333-arch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
   <img src="https://streak-stats.demolab.com?user=sabiulraza333-arch&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
@@ -99,12 +99,18 @@
 
 ### 🏆 Key Achievements
 
-- 🤈 Built a **full-stack Silver Bar QR Tracking System** — Odoo ERP + Python + website with physical QR engraving
+- 🥈 Built a **full-stack Silver Bar QR Tracking System** — Odoo ERP + Python + website with physical QR engraving
 - 💳 Built **ISO 8583-compliant** payment systems handling large-scale ACH & Direct Debit transactions
 - 🗄️ Executed **Oracle → PostgreSQL** data migration using Python (Pandas, SQLAlchemy, NumPy)
 - ⚡ Conducted **SQL performance analysis** on Informix databases, resolving bottlenecks
 - 📄 Delivered **export-ready PDF reports** for clients via QWeb & Python
 - 🔄 Monitored **ETL pipelines** ensuring data accuracy and zero-failure data flows
+
+---
+
+### 🎓 Education
+
+🏫 **COMSATS University Islamabad** — BSc Computer Science *(2015 – 2019)*
 
 ---
 
