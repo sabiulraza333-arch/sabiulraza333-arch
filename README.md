@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sabiul Raza</h1>
-<h3 align="center">Data Analyst | Python Developer | FinTech & ERP Specialist 🇬🇧</h3>
+<h3 align="center">Python Developer | FinTech & ERP Specialist 🇬🇧</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Python+%7C+SQL+%7C+Power+BI;ETL+Pipelines+%7C+ERP+Systems+%7C+FinTech;5%2B+Years+of+Engineering+Experience;Building+a+Python+Trading+Bot+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Python+Developer+%7C+SQL+%7C+ETL+Pipelines;FinTech+%7C+ERP+Systems+%7C+Automation;5%2B+Years+of+Engineering+Experience;Building+a+Python+Trading+Bot+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 Currently
 
-> 🤖 Building a **Python-based Algorithmic Trading Bot** — strategy backtesting, market data pipelines & automation
+> 🔒 Working on **private projects** — Python Trading Bot, Automation & ERP Systems
 
-> `Python` • `Pandas` • `Backtesting` • `APIs` • `Data Analysis` • `Automation`
+> `Python` • `SQL` • `ETL Pipelines` • `Automation` • `ERP`
 
 ---
 
@@ -21,7 +21,6 @@
 - 📊 ~**5 years of experience** across **FinTech**, **ERP Systems**, and **Product Operations**
 - 🐍 Strong expertise in **Python**, **SQL**, and **ETL pipelines**
 - 🔧 Skilled in **Odoo ERP** customization and **QWeb** report development
-- 📈 Experienced with **Power BI**, **Seaborn**, and **Matplotlib** for business insights
 - 💳 Built **ISO 8583-compliant** payment systems for ACH & Direct Debit integrations
 
 ---
@@ -45,7 +44,6 @@
 
 **Tools & Platforms**
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
@@ -93,7 +91,7 @@
 ---
 
 <p align="center">
-  <i>"Turning raw data into actionable insights — one pipeline at a time."</i>
+  <i>"Building reliable systems that solve real problems — one line of code at a time."</i>
 </p>
 
 <p align="center">
