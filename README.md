@@ -64,9 +64,42 @@
 
 ---
 
+### 💼 Experience
+
+**🏢 i2c inc. — Senior Software Engineer, Product Operations** *(Apr 2022 – Dec 2023)*
+
+- 💳 Developed **ISO 8583-compliant** payment systems for **ACH & Direct Debit** integrations — secure, reliable, high-volume transaction processing
+- 🌍 Served as **lead technical contact** for global clients, resolving issues within SLA timelines
+- 🔄 Monitored **ETL pipelines** to ensure accurate and timely data flow, proactively resolving failures
+- ⚡ Conducted **SQL performance analysis** on **Informix databases** — identified and resolved bottlenecks, enhancing system responsiveness
+- 🧹 Improved data accuracy and system efficiency through comprehensive data updates and clean-up initiatives
+- 🤝 Collaborated with **product, engineering, and support teams** to optimise system features and workflows
+- 📝 Maintained detailed **internal documentation** and troubleshooting guides for knowledge sharing
+- 🔁 Participated in **24/7 support rotations** and recommended process improvements for service reliability
+
+---
+
+**🏢 Axiom World — Software Engineer (Python Developer)** *(Apr 2021 – Feb 2022)*
+
+- 🔧 Maintained and customised **Odoo ERP modules** with client-specific business logic
+- 📄 Developed **QWeb report templates** in HTML/CSS for export-ready PDF and Excel formats
+- 🗄️ Executed **Oracle → PostgreSQL data migration** using NumPy, SQLAlchemy, and Pandas
+- 📊 Delivered well-formatted reports and resolved user issues across multiple platforms
+- 📝 Created and maintained comprehensive documentation for operational continuity
+
+---
+
+**🏢 LoopOrigin — Software Engineer** *(Feb 2019 – Mar 2021)*
+
+- 📈 Developed insightful reports for **senior management** using SQL and Python for data-driven decision making
+- 🌍 Led the **international client communication team**, ensuring excellence across diverse industries
+- 🏆 Optimised team performance, achieving productivity goals and **exceeding KPI benchmarks**
+
+---
+
 ### 🏆 Key Achievements
 
-- 🥈 Built a **full-stack Silver Bar QR Tracking System** — Odoo ERP + Python + website with physical QR engraving
+- 🤈 Built a **full-stack Silver Bar QR Tracking System** — Odoo ERP + Python + website with physical QR engraving
 - 💳 Built **ISO 8583-compliant** payment systems handling large-scale ACH & Direct Debit transactions
 - 🗄️ Executed **Oracle → PostgreSQL** data migration using Python (Pandas, SQLAlchemy, NumPy)
 - ⚡ Conducted **SQL performance analysis** on Informix databases, resolving bottlenecks
